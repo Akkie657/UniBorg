@@ -1,2 +1,3 @@
-telethon
--r ./requirements-stdborg.txt
+git+https://github.com/LonamiWebs/Telethon
+pip
+-r requirements-startup.txt
